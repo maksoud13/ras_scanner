@@ -199,14 +199,14 @@ The application uses standard Java logging with:
 - Check system permissions for monitored paths
 - Review application logs for errors
 
-## Future Enhancements
+<!-- ## Future Enhancements
 
 - Database integration for persistent alert storage
 - Web UI dashboard for real-time monitoring
 - Email/SMS notifications for critical alerts
 - Configurable scanning intervals via API
 - Machine learning-based threat detection
-- Integration with external security services
+- Integration with external security services -->
 
 ## License
 
